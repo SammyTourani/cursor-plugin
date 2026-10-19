@@ -2,7 +2,7 @@
 
 Ask about your engineering team's real metrics without leaving your editor: code output, PR cycle time, review turnaround, task delivery, AI coding tool adoption, agent activity and more. Answers come from your own [Weave](https://weaveos.com) workspace.
 
-This plugin queries your Weave data. It doesn't collect telemetry; Weave's separate Claude Code and Cursor telemetry installers do that.
+This plugin queries your Weave data.
 
 ## What you get
 
